@@ -1,5 +1,7 @@
 # Serverless Stack Demo React App
 
+Live demo: https://noteschich.netlify.com/
+
 [Serverless Stack](http://serverless-stack.com) is a free comprehensive guide to creating full-stack serverless applications. We create a [note taking app](http://demo.serverless-stack.com) from scratch.
 
 This repo is for the frontend React app that we build over the course of the tutorial. You can find the repo for the backend serverless API [here](https://github.com/AnomalyInnovations/serverless-stack-demo-api). And the repo for the tutorial [here](https://github.com/AnomalyInnovations/serverless-stack-com).
@@ -41,10 +43,5 @@ And run.
 $ npm run deploy
 ```
 
-#### Maintainers
-
-Serverless Stack is authored and maintained by Frank Wang ([@fanjiewang](https://twitter.com/fanjiewang)) & Jay V ([@jayair](https://twitter.com/jayair)). [**Subscribe to our newsletter**](http://eepurl.com/cEaBlf) for updates on Serverless Stack. Send us an [email][Email] if you have any questions.
-
-[Email]: mailto:contact@anoma.ly
 
 
